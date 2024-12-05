@@ -1,0 +1,10 @@
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Backpropagation\Backpropagation\Backpropagation\bin\Debug\Backpropagation.exe.config
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Backpropagation\Backpropagation\Backpropagation\bin\Debug\Backpropagation.exe
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Backpropagation\Backpropagation\Backpropagation\bin\Debug\Backpropagation.pdb
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Backpropagation\Backpropagation\Backpropagation\obj\Debug\Backpropagation.csproj.AssemblyReference.cache
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Backpropagation\Backpropagation\Backpropagation\obj\Debug\Backpropagation.Form1.resources
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Backpropagation\Backpropagation\Backpropagation\obj\Debug\Backpropagation.Properties.Resources.resources
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Backpropagation\Backpropagation\Backpropagation\obj\Debug\Backpropagation.csproj.GenerateResource.cache
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Backpropagation\Backpropagation\Backpropagation\obj\Debug\Backpropagation.csproj.CoreCompileInputs.cache
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Backpropagation\Backpropagation\Backpropagation\obj\Debug\Backpropagation.exe
+C:\Users\morie\Downloads\CS 2024-2025\First Sem\CS345\Backpropagation\Backpropagation\Backpropagation\obj\Debug\Backpropagation.pdb
